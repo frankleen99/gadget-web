@@ -1,0 +1,347 @@
+[
+    {
+      "id": 1,
+      "category": "Smartphones",
+      "name": "Smartphone x",
+      "price": "$700",
+      "image": "https://example.com",
+      "details": ["5G Network", "128GB Storage", "Face Recognition"],
+      "description": "Smartphone X with high-speed 5G and top-tier features."
+    },
+    {
+      "id": 2,
+      "category": "Smartphones",
+      "name": "Smartphone y",
+      "price": "$900",
+      "image": "https://example.com",
+      "details": ["4G Network", "128GB Storage", "Finger print"],
+      "description": "Smartphone Y with high-speed 4G and top-tier features."
+    },
+    {
+      "id": 3,
+      "category": "Computers",
+      "name": "Laptop pro 2",
+      "price": "$1000",
+      "image": "https://example.com",
+      "details": ["16GB RAM", "512GB SSD", "4K Display"],
+      "description": "Computer A with powerful performance and stunning 4K display."
+    },
+    {
+      "id": 4,
+      "category": "Computers",
+      "name": "Gaming laptop Y",
+      "price": "$1200",
+      "image": "https://example.com",
+      "details": ["32GB RAM", "1TB SSD", "Ultra HD Display"],
+      "description": "Gaming Laptop Y with ultimate speed, large storage, and ultra HD display."
+    },
+    {
+      "id": 5,
+      "category": "Accessories",
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "price": "$349",
+      "image": "https://example.com/sonywh1000xm5.jpg",
+      "details": [
+        "Industry-leading noise cancellation",
+        "Up to 30 hours of battery life",
+        "Touch sensor controls",
+        "Quick charge capability"
+      ],
+      "description": "Sony's WH-1000XM5 headphones offer industry-leading noise cancellation, high-quality audio, and long-lasting battery life."
+    },
+    {
+      "id": 6,
+      "category": "Accessories",
+      "name": "Logitech MX Master 3S Wireless Mouse",
+      "price": "$99",
+      "image": "https://example.com/logitechmxmaster3s.jpg",
+      "details": [
+        "Ultra-fast scrolling",
+        "Customizable buttons",
+        "4000 DPI precision",
+        "Ergonomic design"
+      ],
+      "description": "The Logitech MX Master 3S is a precision wireless mouse with ultra-fast scrolling and ergonomic design for maximum comfort."
+    },
+    {
+      "id": 7,
+      "category": "Consoles",
+      "name": "PlayStation 5",
+      "price": "$499",
+      "image": "https://example.com/playstation5.jpg",
+      "details": [
+        "825GB SSD Storage",
+        "Ray Tracing Technology",
+        "4K Gaming",
+        "DualSense Wireless Controller"
+      ],
+      "description": "The PlayStation 5 offers immersive 4K gaming, lightning-fast load times, and revolutionary haptic feedback with the DualSense controller."
+    },
+    {
+      "id": 8,
+      "category": "Consoles",
+      "name": "Xbox Series X",
+      "price": "$499",
+      "image": "https://example.com/xboxseriesx.jpg",
+      "details": [
+        "1TB SSD Storage",
+        "8K HDR Support",
+        "120 FPS Gaming",
+        "Backward Compatibility with Xbox One"
+      ],
+      "description": "The Xbox Series X is Microsoft's most powerful console yet, offering 120 FPS gaming, 8K HDR support, and extensive backward compatibility."
+    },
+    {
+      "id": 9,
+      "category": "Consoles",
+      "name": "Nintendo Switch OLED",
+      "price": "$349",
+      "image": "https://example.com/nintendoswitcholed.jpg",
+      "details": [
+        "7-inch OLED Screen",
+        "64GB Internal Storage",
+        "Handheld and Docked Modes",
+        "Joy-Con Controllers"
+      ],
+      "description": "The Nintendo Switch OLED features a vibrant 7-inch OLED display, offering both handheld and docked modes for versatile gaming experiences."
+    },
+    {
+      "id": 10,
+      "category": "Consoles",
+      "name": "Steam Deck",
+      "price": "$399",
+      "image": "https://example.com/steamdeck.jpg",
+      "details": [
+        "512GB NVMe SSD",
+        "7-inch Touchscreen",
+        "PC Gaming on the Go",
+        "Custom AMD APU"
+      ],
+      "description": "The Steam Deck is a handheld gaming console designed for PC gaming on the go, with a custom AMD APU and high-speed SSD storage."
+    },
+    {
+      "id": 11,
+      "category": "Speakers",
+      "name": "Sonos One",
+      "price": "$199",
+      "image": "https://example.com/sonos-one.jpg",
+      "details": [
+        "Smart Speaker with Voice Control",
+        "Rich, Room-Filling Sound",
+        "Multi-Room Audio",
+        "Compatible with Alexa and Google Assistant"
+      ],
+      "description": "The Sonos One is a smart speaker that delivers rich sound and voice control capabilities, making it perfect for any room."
+    },
+    {
+      "id": 12,
+      "category": "Speakers",
+      "name": "Bose SoundLink Revolve+",
+      "price": "$329",
+      "image": "https://example.com/bose-soundlink-revolve-plus.jpg",
+      "details": [
+        "360-Degree Sound",
+        "Up to 17 Hours of Battery Life",
+        "Water-Resistant (IP55)",
+        "Bluetooth Connectivity"
+      ],
+      "description": "The Bose SoundLink Revolve+ provides powerful 360-degree sound and is designed for portability and durability, perfect for outdoor use."
+    },
+    {
+      "id": 13,
+      "category": "Headphones",
+      "name": "Sony WH-1000XM5",
+      "price": "$349",
+      "image": "https://example.com/sony-wh-1000xm5.jpg",
+      "details": [
+        "Industry-Leading Noise Cancellation",
+        "30-Hour Battery Life",
+        "Touch Sensor Controls",
+        "Quick Charge Capability"
+      ],
+      "description": "The Sony WH-1000XM5 headphones offer exceptional noise cancellation, high-quality audio, and long-lasting battery life, making them ideal for travelers."
+    },
+    {
+      "id": 14,
+      "category": "Headphones",
+      "name": "Bose QuietComfort 45",
+      "price": "$329",
+      "image": "https://example.com/bose-quietcomfort-45.jpg",
+      "details": [
+        "Acoustic Noise Cancelling Technology",
+        "Up to 24 Hours of Battery Life",
+        "Comfortable Fit",
+        "Bluetooth and Wired Connectivity"
+      ],
+      "description": "The Bose QuietComfort 45 headphones provide superior comfort and noise cancellation, making them perfect for long listening sessions."
+    },
+    {
+      "id": 15,
+      "category": "Routers",
+      "name": "Netgear Nighthawk AX12",
+      "price": "$399",
+      "image": "https://example.com/netgear-nighthawk-ax12.jpg",
+      "details": [
+        "Wi-Fi 6 Technology",
+        "12 Stream Dual-Band",
+        "Up to 6,000 sq ft Coverage",
+        "4 Gigabit Ethernet Ports"
+      ],
+      "description": "The Netgear Nighthawk AX12 offers blazing-fast Wi-Fi 6 speeds, extensive coverage, and powerful performance for gaming and streaming."
+    },
+    {
+      "id": 16,
+      "category": "Routers",
+      "name": "ASUS RT-AX88U",
+      "price": "$299",
+      "image": "https://example.com/asus-rt-ax88u.jpg",
+      "details": [
+        "Wi-Fi 6 Dual-Band Router",
+        "4x4 MU-MIMO Technology",
+        "Smart Home Ready",
+        "Game Acceleration"
+      ],
+      "description": "The ASUS RT-AX88U is a powerful dual-band Wi-Fi 6 router designed for gamers and smart homes, providing ultra-fast speeds and low latency."
+    },
+    {
+      "id": 17,
+      "category": "Networking",
+      "name": "TP-Link TL-SG108",
+      "price": "$49",
+      "image": "https://example.com/tp-link-tl-sg108.jpg",
+      "details": [
+        "8-Port Gigabit Switch",
+        "Plug and Play",
+        "Metal Housing",
+        "Energy Efficient"
+      ],
+      "description": "The TP-Link TL-SG108 is an 8-port gigabit switch that provides reliable, high-speed network connectivity for your home or office."
+    },
+    {
+      "id": 18,
+      "category": "Networking",
+      "name": "Ubiquiti UniFi Dream Machine",
+      "price": "$299",
+      "image": "https://example.com/ubiquiti-unifi-dream-machine.jpg",
+      "details": [
+        "All-in-One Network Solution",
+        "Integrated Security Gateway",
+        "4-Port Managed Switch",
+        "Advanced Threat Management"
+      ],
+      "description": "The Ubiquiti UniFi Dream Machine combines a high-performance router, security gateway, and managed switch, providing a complete network solution."
+    },
+    {
+      "id": 19,
+      "category": "Watches",
+      "name": "Apple Watch Series 8",
+      "price": "$399",
+      "image": "https://example.com/apple-watch-series8.jpg",
+      "details": [
+        "Always-On Retina Display",
+        "Heart Rate Monitoring",
+        "GPS and Cellular Options",
+        "Sleep Tracking"
+      ],
+      "description": "The Apple Watch Series 8 features advanced health tracking, an always-on display, and powerful connectivity options, making it perfect for fitness enthusiasts."
+    },
+    {
+      "id": 20,
+      "category": "Watches",
+      "name": "Samsung Galaxy Watch 5",
+      "price": "$279",
+      "image": "https://example.com/samsung-galaxy-watch5.jpg",
+      "details": [
+        "Super AMOLED Display",
+        "Body Composition Measurement",
+        "Advanced Health Monitoring",
+        "Wear OS Integration"
+      ],
+      "description": "The Samsung Galaxy Watch 5 offers a sleek design with advanced health metrics, long battery life, and integration with Google services."
+    },
+    {
+      "id": 21,
+      "category": "Watches",
+      "name": "Garmin Venu 2",
+      "price": "$399",
+      "image": "https://example.com/garmin-venu2.jpg",
+      "details": [
+        "AMOLED Display",
+        "Long Battery Life (up to 11 days)",
+        "Fitness and Health Tracking",
+        "Built-in GPS"
+      ],
+      "description": "The Garmin Venu 2 is designed for fitness enthusiasts, offering detailed health and fitness tracking features in a vibrant AMOLED display."
+    },
+    {
+      "id": 22,
+      "category": "Watches",
+      "name": "Fitbit Sense",
+      "price": "$299",
+      "image": "https://example.com/fitbit-sense.jpg",
+      "details": [
+        "Stress Management Tools",
+        "ECG and Heart Rate Monitoring",
+        "Sleep Score",
+        "Built-in GPS"
+      ],
+      "description": "The Fitbit Sense is a health-focused smartwatch that offers advanced health metrics, stress management tools, and personalized insights."
+    },
+    {
+      "id": 23,
+      "category": "Televisions",
+      "name": "LG C2 OLED TV",
+      "price": "$1,499",
+      "image": "https://example.com/lg-c2-oled.jpg",
+      "details": [
+        "55-inch 4K OLED Display",
+        "NVIDIA G-SYNC Compatible",
+        "WebOS Smart Platform",
+        "Dolby Vision and Dolby Atmos"
+      ],
+      "description": "The LG C2 OLED TV offers stunning picture quality with deep blacks, vibrant colors, and advanced gaming features for an immersive experience."
+    },
+    {
+      "id": 24,
+      "category": "Televisions",
+      "name": "Samsung QN90A Neo QLED TV",
+      "price": "$1,199",
+      "image": "https://example.com/samsung-qn90a.jpg",
+      "details": [
+        "65-inch 4K Neo QLED Display",
+        "Quantum HDR 32X",
+        "Object Tracking Sound",
+        "Tizen Smart TV Platform"
+      ],
+      "description": "The Samsung QN90A combines Quantum Dot and Mini LED technologies for exceptional brightness and contrast, perfect for any viewing environment."
+    },
+    {
+      "id": 25,
+      "category": "Televisions",
+      "name": "Sony A80J OLED TV",
+      "price": "$1,799",
+      "image": "https://example.com/sony-a80j.jpg",
+      "details": [
+        "65-inch 4K OLED Display",
+        "Cognitive Processor XR",
+        "Acoustic Surface Audio",
+        "Google TV Interface"
+      ],
+      "description": "The Sony A80J OLED TV features advanced processing for stunning visuals and immersive sound, making it a great choice for movie lovers."
+    },
+    {
+      "id": 26,
+      "category": "Televisions",
+      "name": "TCL 6-Series R635",
+      "price": "$799",
+      "image": "https://example.com/tcl-6-series-r635.jpg",
+      "details": [
+        "55-inch 4K QLED Display",
+        "Mini LED Backlighting",
+        "Voice Control with Google Assistant",
+        "Roku TV Platform"
+      ],
+      "description": "The TCL 6-Series R635 offers a great combination of price and performance with its Mini LED technology and vibrant QLED display."
+    }
+  ]
+  
